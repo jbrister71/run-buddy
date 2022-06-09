@@ -3,10 +3,12 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 body {
     font-family: Helvetica, Arial, sans-serif;
     color: #39a6b2;
 }
+
 header {
     padding: 20px 35px;
     background-color:#39a6b2;
@@ -61,4 +63,24 @@ footer div {
 
 footer a {
     color: #024e76;
+}
+
+section {
+    padding: 60px;
+}
+
+.hero {
+    background-image: url("../images/hero-bg.jpg");
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+}
+
+.hero-form {
+    float: right;
+    background-color: #fce138;
+    color: #024e76;
+    padding: 20px;
+    width: 500px;
+    border: solid 3px #024e76;
 }
