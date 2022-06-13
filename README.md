@@ -12,3 +12,5 @@ https://jbrister71.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Jacob Brister
+
+### ©️2019 Run Buddy, Inc 
